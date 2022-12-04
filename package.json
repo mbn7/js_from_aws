@@ -1,0 +1,14 @@
+{
+  "name": "tst",
+  "version": "1.0.0",
+  "description": "tst conc to aws",
+  "main": "tst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mbn7 <mbn@g.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
