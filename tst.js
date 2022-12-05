@@ -4,6 +4,7 @@ const app = express();
 
 app.get('/',(req,res)=>{
     // return res.send();
+    console.log('recived req');
     return res.json({message: 'get server req'})
 })
 
